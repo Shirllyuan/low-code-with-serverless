@@ -1,0 +1,6 @@
+[submodule "low-code-frontend"]
+	path = low-code-frontend
+	url = https://github.com/Shirllyuan/low-code-frontend.git
+[submodule "low-code-backend"]
+	path = low-code-backend
+	url = https://github.com/Shirllyuan/low-code-backend.git
